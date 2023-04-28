@@ -1,0 +1,19 @@
+{
+  "name": "tronweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base58": "^2.0.1",
+    "buffer": "^6.0.3",
+    "elliptic": "^6.5.4",
+    "keccak256": "^1.0.6",
+    "tronweb": "^5.1.0"
+  }
+}
