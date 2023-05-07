@@ -10,7 +10,7 @@ const tronWeb = new TronWeb({
 });
 
 
-//bobs generating stealth meta address from his root spending key
+
 
 let key = ec.genKeyPair();
 
